@@ -7,8 +7,10 @@
 ```
 sops/
 ├── medical/                  # 医疗类
-│   └── outpatient/           # 门诊
-│       └── registration.md   # 门诊挂号操作规程
+│   ├── outpatient/           # 门诊
+│   │   └── registration.md   # 门诊挂号操作规程
+│   └── inpatient/            # 住院
+│       └── admission.md      # 住院入院操作规程
 ```
 
 ## SOP 清单
@@ -16,6 +18,7 @@ sops/
 | 编号 | 名称 | 分类 | 版本 | 状态 |
 |------|------|------|------|------|
 | SOP-MED-OP-REG-001 | 门诊挂号 | 医疗-门诊 | v1.0 | 生效中 |
+| SOP-MED-IP-ADM-001 | 住院入院 | 医疗-住院 | v1.0 | 生效中 |
 
 ## 文档规范
 
