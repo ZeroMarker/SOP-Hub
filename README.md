@@ -12,6 +12,11 @@ sops/
 │   └── inpatient/            # 住院
 │       ├── admission.md      # 住院入院操作规程
 │       └── discharge.md      # 住院出院操作规程
+├── software/                 # 软件类
+│   ├── dev/                  # 开发
+│   │   └── development.md    # 软件开发标准流程
+│   └── ops/                  # 运维
+│       └── operations.md     # 运维管理规范
 ```
 
 ## SOP 清单
@@ -21,6 +26,8 @@ sops/
 | SOP-MED-OP-REG-001 | 门诊挂号 | 医疗-门诊 | v1.0 | 生效中 |
 | SOP-MED-IP-ADM-001 | 住院入院 | 医疗-住院 | v1.0 | 生效中 |
 | SOP-MED-IP-DSG-001 | 住院出院 | 医疗-住院 | v1.0 | 生效中 |
+| SOP-SW-DEV-STD-001 | 软件开发标准流程 | 软件开发 | v1.0 | 生效中 |
+| SOP-SW-OPS-MGT-001 | 运维管理规范 | 软件运维 | v1.0 | 生效中 |
 
 ## 文档规范
 
